@@ -1,4 +1,4 @@
-# Group14-NLP-Final--Project
+# Group14-NLP-Final-Project
 ## Winston Yin, Pranav Kanchi, Jonathan Simonson, Kim Young
 This our (Group 14)'s final project for Professor Meyer's Natural Language Processing Class
 Our project looks to take the textual content of drop-shipped and authentic product listings and apply NLP-based classification algorithms to distinguish between the two types. \
