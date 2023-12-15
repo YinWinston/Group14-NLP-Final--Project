@@ -4,7 +4,7 @@ This our (Group 14)'s final project for Professor Meyer's Natural Language Proce
 Our project looks to take the textual content of drop-shipped and authentic product listings and apply NLP-based classification algorithms to distinguish between the two types. 
 
 ## Dependencies
-Our code relies on a number of open-source libraries: `Numpy, Pandas, Scikit-Learn, NLTK, bs4, Scapy, Json, Time, Re, and Gensim`
+Our code relies on a number of open-source libraries: `Numpy, Pandas, Scikit-Learn, NLTK, bs4, Scapy, Json, Time, Re, and Gensim`.\
 Please use `pip install` to install all of them on your personal machine. 
 
 ## Running the Program
